@@ -1,5 +1,6 @@
 # I Want To Help
 
+See the projects under Volunteering!
 
 * [I Can Sew](https://wytechcc.com/help-and-resources/i-want-to-help__trashed/for-makers-sewing/) - Lead: Melanie Shovelski
   * Check the pinned messages in the `skill-sewers` channel
